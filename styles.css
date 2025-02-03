@@ -194,3 +194,13 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   }
   
+  .propos {
+    position: relative;
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
