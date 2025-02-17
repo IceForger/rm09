@@ -9,7 +9,7 @@ body {
   .header {
     display: flex;
     justify-content: space-between;
-    padding: 1rem 2rem;
+    padding: 1.5rem 2rem;
     background: rgba(0, 0, 0, 0.8);
     position: fixed;
     width: 100%;
